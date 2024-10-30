@@ -26,3 +26,5 @@ plt.axhline(y=75, color='purple', linestyle='--')
 
 # Show the plot
 plt.show()
+
+#Till l3 Ques 1.!!!
