@@ -10,3 +10,9 @@ y = np.array([4,-7])
 ans = np.dot(Xinv,y)
 
 print(f"the ans is {ans}")
+
+#y = Xw
+#y could be house prices 
+#X could be predictors like bedroom count , area of the house
+#w means the unknowns the models learnable params
+#w = inv(X).y
